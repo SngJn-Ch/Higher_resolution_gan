@@ -7,7 +7,7 @@
     
 <sub> GAN </sub>
 
-![image](https://user-images.githubusercontent.com/111392592/188733370-decfc1bf-6f46-4d4a-adad-c5a1dbf1917d.png)
+<img src="https://user-images.githubusercontent.com/111392592/188733370-decfc1bf-6f46-4d4a-adad-c5a1dbf1917d.png" width = 200 height = 200>
 
 
 1. GAN network has two models, Generator, Discriminator
