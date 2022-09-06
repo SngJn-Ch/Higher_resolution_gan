@@ -35,11 +35,16 @@
 # Problem to solve
 
 1. Should Improve Detail
+
   1-1. More epoch?
+  
   1-2. More data?
+  
 
 2. Should be able to train large images
+
   2-1. Resource problem
+  
     2-1-1. Hardware limit
    
  
