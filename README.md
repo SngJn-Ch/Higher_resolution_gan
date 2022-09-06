@@ -7,7 +7,7 @@
     
 GAN
 
-<img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = 600 height = 200>
+<img src="https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg" width = 800 height = 300>
 
 
 1. GAN network has two models, Generator, Discriminator
