@@ -59,6 +59,9 @@ image
 
 Paper
   https://arxiv.org/pdf/1609.04802v5.pdf
+  
+Data
+  https://www.image-net.org/download.php
 
   
       
