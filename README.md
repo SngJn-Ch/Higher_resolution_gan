@@ -1,12 +1,14 @@
 # SR_gan
-  # what is SR gan
+  what is SR gan?
   
-    Type of Generative Adversial Network(GAN) for Super resolution of image. For my SRgan code, it will return 4times higher resolution image than the input image.
+  Type of Generative Adversial Network(GAN) for Super resolution of image. For my SRgan code, it will return 4times higher resolution image than the input image.
 
-  # How it works
+# How it works
     
-    <sub> GAN </sub>
-      [1. ](https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg)
+<sub> GAN </sub>
+
+      ![image](https://user-images.githubusercontent.com/111392592/188733370-decfc1bf-6f46-4d4a-adad-c5a1dbf1917d.png)
+
       
       1. GAN network has two models, Generator, Discriminator
       2. Generator creates fake output based on the input
@@ -42,10 +44,10 @@
    
  
 # Reference
-  #image
+  image
     https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg  (image for GAN)
     
-  # Paper
+  Paper
     https://arxiv.org/pdf/1609.04802v5.pdf
   
   
