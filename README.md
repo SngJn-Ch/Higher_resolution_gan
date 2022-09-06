@@ -16,9 +16,9 @@ GAN
 3. Discriminator distinguish whether the generated images are fake or real
 4. Based on the Discriminator's result and image comparison, the Generator and Discriminator tune themselves to reduce **loss**
 
-  4-1. Loss function in this model will include BinaryCrossEntropy of whether Discriminator successfully classify real images as real or fake images as fake.
+    4-1. Loss function in this model will include BinaryCrossEntropy of whether Discriminator successfully classify real images as real or fake images as fake.
   
-  4-2. The Code include **transfer learning** aspect in that the **loss** also include **MeanSquaredError** of VGG19 network
+    4-2. The Code include **transfer learning** aspect in that the **loss** also include **MeanSquaredError** of VGG19 network
   
   - Transfer learning is utilizing network that is trained by other people. In this case, the code used VGG19 trained by imagenet dataset
     
