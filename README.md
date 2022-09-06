@@ -20,7 +20,7 @@ GAN
   
     4-2. The Code include **transfer learning** aspect in that the **loss** also include **MeanSquaredError** of VGG19 network
   
-  - Transfer learning is utilizing network that is trained by other people. In this case, the code used VGG19 trained by imagenet dataset
+    - Transfer learning is utilizing network that is trained by other people. In this case, the code used VGG19 trained by imagenet dataset
     
 
 5. As the two models go through the multiple epochs, the generator will make real-like fake image and the discriminator will have better ability to distinguish the fake and real images
