@@ -44,9 +44,9 @@ right : Original image
 
 1. Should Improve Detail
 
-  1-1. More epoch?
+    1-1. More epoch?
   
-  1-2. More data?
+    1-2. More data?
   
 
 2. Should be able to train large images
@@ -59,12 +59,15 @@ right : Original image
 # Reference
 
 image
+
   https://developers.google.com/static/machine-learning/gan/images/gan_diagram.svg  (image for GAN)
 
 Paper
+
   https://arxiv.org/pdf/1609.04802v5.pdf
   
 Data
+
   https://www.image-net.org/download.php
 
   
