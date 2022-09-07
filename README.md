@@ -29,6 +29,7 @@ GAN
 
 # Result
 
+         Input                            Output                            Original
 ![135](https://user-images.githubusercontent.com/111392592/188732402-570d26c5-e4c0-4534-a9da-187f7a738cc3.png)
 
 ![272 (1)](https://user-images.githubusercontent.com/111392592/188732410-3af51c6a-0110-4ccc-90d9-ca24f5fc5016.png)
